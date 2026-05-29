@@ -1,0 +1,30 @@
+name: FixUI
+main: FixUI\Main
+version: 1.0.0
+api: 5.0.0
+
+author: ZyberPE
+
+commands:
+  fix:
+    description: Open Fix UI
+    permission: fix.use
+
+  repair:
+    description: Open Fix UI
+    permission: fix.use
+
+  fixui:
+    description: Open Fix UI
+    permission: fix.use
+
+  repairui:
+    description: Open Fix UI
+    permission: fix.use
+
+permissions:
+  fix.use:
+    default: true
+
+  fix.bypass:
+    default: op
