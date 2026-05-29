@@ -15,7 +15,7 @@ confirm-button: "&aYes Repair"
 cancel-button: "&cCancel"
 close-button: "&8Close"
 
-repair-success-message: "&aSuccessfully repaired &e{item}"
+repair-success-message: "&aSuccessfully repaired &eItem"
 
 cancel-message: "&cRepair cancelled."
 
