@@ -1,0 +1,28 @@
+xp-cost: 30
+
+select-form-title: "&8Fix UI"
+select-form-message: "&7Select an item to repair."
+dropdown-message: "&eChoose Item"
+
+confirm-form-title: "&8Confirm Repair"
+
+confirm-message: "&7It will cost &e{xp} XP Levels &7to repair &e{item}\n&7Continue?"
+
+free-repair-message: "&aYou have free repairs!"
+free-confirm-message: "&aThis repair is FREE! because your Ranked!"
+
+confirm-button: "&aYes Repair"
+cancel-button: "&cCancel"
+close-button: "&8Close"
+
+repair-success-message: "&aSuccessfully repaired &e{item}"
+
+cancel-message: "&cRepair cancelled."
+
+close-message: "&7Closed the form."
+
+not-enough-xp-message: "&cYou need {xp} XP Levels to repair this {item}."
+
+item-missing-message: "&cThat item no longer exists."
+
+no-items-message: "&cYou do not have any repairable items."
